@@ -1,0 +1,5 @@
+com\serenity\bdd\commontasks\CommonRequestSpec.class
+com\serenity\bdd\suite\CucumberTestSuite.class
+com\serenity\bdd\commontasks\CommonFunctions.class
+com\serenity\bdd\api\response\XkcdResponse.class
+com\serenity\bdd\stepdefinitions\GetXkcdInfoSteps.class
